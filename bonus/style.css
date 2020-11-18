@@ -98,11 +98,11 @@ img {
   }
 
   #steps .row>.left{
-    margin-left: 20px;
+    margin-left: 40px;
   }
 
   #steps .row>.central{
-    margin-right: 20px;
+    margin-right: 40px;
   }
 
  #steps .row>.central{
@@ -115,6 +115,13 @@ img {
 }
 /* BLOCCO STEPS */
 
+h1{
+  font-size: 45px;
+}
+
+h3{
+  font-size: 30px;
+}
 
 
 /*end media-query*/
