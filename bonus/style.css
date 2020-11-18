@@ -89,7 +89,7 @@ img {
 
   /*BLOCCO LEZIONI*/
   #lezioni .row .right{
-    margin-top: 70px;
+    margin-top: 80px;
     height: 335px;
   }
 
@@ -99,6 +99,10 @@ img {
   /*BLOCCO LEZIONI*/
 
 /* BLOCCO STEPS */
+#steps .row{
+  margin-top: 80px;
+}
+
   #steps .row>.left,
   #steps .row>.central,
    {
@@ -137,7 +141,12 @@ img {
 
 
 
+
 /*TAG*/
+#lezioni, #steps, #why, #text{
+ font-size: 20px;
+}
+
 h1{
   font-size: 45px;
 }
