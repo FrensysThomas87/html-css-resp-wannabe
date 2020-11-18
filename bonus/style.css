@@ -90,12 +90,14 @@ img {
   /*BLOCCO LEZIONI*/
   #lezioni .row img {
     /* per centrare orizzontalmente */
-    
-    width: 200px;
+
+    /* width: 200px; */
   }
   /*BLOCCO LEZIONI*/
 
 /* BLOCCO STEPS */
+
+
 
   #steps .row>.left,
   #steps .row>.central,
