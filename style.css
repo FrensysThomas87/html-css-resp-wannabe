@@ -77,7 +77,11 @@ img {
 
 @media screen and (max-width: 420px){
 
- 
+ /* .container{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+} */
 
 #lezioni .row>.left,
 #lezioni .row>.right {
@@ -92,10 +96,14 @@ img {
   width: 100%;
 }
 
+
 .row{
   width: 100%;
 }
 
+h1{
+  font-size: 45px;
+}
 
 }
 
