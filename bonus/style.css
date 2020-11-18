@@ -99,9 +99,6 @@ img {
   /*BLOCCO LEZIONI*/
 
 /* BLOCCO STEPS */
-
-
-
   #steps .row>.left,
   #steps .row>.central,
    {
@@ -115,6 +112,7 @@ img {
 
    #steps .row>.central{
     margin-right: 50px;
+    margin-top: 80px;
   }
 
  #steps .row>.central{
@@ -128,6 +126,10 @@ img {
 #steps .row>.right:last-of-type img,
 #why .row img{
   width: 80%;
+}
+
+#steps .row>.central:nth-of-type(2) img{
+  width: 122px;
 }
 
 }
