@@ -105,6 +105,15 @@ h1{
   font-size: 45px;
 }
 
+h3{
+  font-size: 30px;
+}
+
+div.right,
+div.central{
+  margin-top: 20px;
+}
+
 }
 
 
